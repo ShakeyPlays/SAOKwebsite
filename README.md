@@ -8,7 +8,7 @@ A modern, interactive portfolio website built with Next.js, React, TypeScript, a
 - 🎨 Modern UI with Tailwind CSS and shadcn/ui components
 - 📱 Fully responsive design
 - ⚡ Built with Next.js 14 and TypeScript
-- ✨ Smooth animations with Framer Motion
+- ✨ Smooth animations
 
 ## Tech Stack
 
