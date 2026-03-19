@@ -129,14 +129,14 @@ export default function Home() {
           <div className="grid md:grid-cols-2 gap-8">
             <div className="space-y-4">
               <p className="text-gray-300 leading-relaxed">
-                I'm a Computer Science student at the University of Western Ontario, specializing in 
+                I&apos;m a Computer Science student at the University of Western Ontario, specializing in 
                 Game Development. With a passion for creating engaging interactive experiences, I combine 
                 technical expertise with creative vision to build games that captivate players.
               </p>
               <p className="text-gray-300 leading-relaxed">
                 My journey in game development has led me to work on various projects, from virtual pet 
-                simulations to machine learning applications. I'm always exploring new technologies and 
-                pushing the boundaries of what's possible in interactive media.
+                simulations to machine learning applications. I&apos;m always exploring new technologies and 
+                pushing the boundaries of what&apos;s possible in interactive media.
               </p>
             </div>
             <div className="space-y-4">
